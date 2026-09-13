@@ -38,7 +38,7 @@
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic: Indie game players and card game players
+- **Demographic:** Indie game players and card game players
 - **Interests:** deck-building, turn-based games
 - **Platforms:** PC, Web
 
