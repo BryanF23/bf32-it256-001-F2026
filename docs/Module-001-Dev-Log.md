@@ -11,9 +11,6 @@
 - [ ] Decide on what I want my game that I'm going to make to be about.
 - [ ] Build a working game.
 
-- [ ] Example pending goal
-- [x] Example completed goal
-
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
