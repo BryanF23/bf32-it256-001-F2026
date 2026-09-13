@@ -13,8 +13,8 @@
 
 - **Chosen Name**: Deckrush: Blitz
 - **About the name**: I liked the idea of combining the fast-paced deck-building aspect of the game with the idea of a “rush.” The “Blitz” part also goes with the fast-paced gameplay.
-- **Social Medias with name available**: 
-- **Possible domain names available**: Need to check
+- **Social Medias with name available**: "Deckrush Blitz"
+- **Possible domain names available**: DeckrushBlitz.com
 
 ---
 
@@ -28,10 +28,10 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- Fun flexible gameplay
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- Fun flexible gameplay, simple game mechanics that are easy to understand
+- Fast-paced gameplay that keeps players engaged
+- Strategic decisions that make each turn important
+- Different deck-building options so players can play in different ways
 
 ---
 
@@ -64,7 +64,7 @@
 *What tools and platforms will you use to develop, test, and publish your games?*
 
 - **Game Engine(s):** Unity
-- **Art Tools:** Blender, mixkit
+- **Art Tools:** Blender, mixkit, Photoshop
 - **Audio Tools:** Audacity, Adobe Audition 
 - **Version Control:** GitHub
 - **Publishing Platforms:** Itch.io, GitHub
