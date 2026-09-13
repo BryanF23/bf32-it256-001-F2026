@@ -2,18 +2,19 @@
 <!-- NOTE: remove the bracketted examples/placeholders as you fill things in, only keep brackets if they're a checkbox -->
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - roguelike deck-building
+  - digital turn-based
+  - Strategy card game
+    
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - Dice-based game
+  - Strategy board game
+  - tabletop game
 
-- **Chosen Name**:
-- **About the name**:
-- **Social Medias with name available**:
-- **Possible domain names available**:
+- **Chosen Name**: Deckrush: Blitz
+- **About the name**: I liked the idea of combining the fast-paced deck-building aspect of the game with the idea of a “rush.” The “Blitz” part also goes with the fast-paced gameplay.
+- **Social Medias with name available**: 
+- **Possible domain names available**: Need to check
 
 ---
 
@@ -27,7 +28,7 @@
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
+- Fun flexible gameplay
 - [Value 2: e.g., Player-Centered Innovation]
 - [Value 3: e.g., Simplicity in Architecture]
 - [Value 4: e.g., Experimentation with Mechanics]
@@ -37,9 +38,9 @@
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic: Indie game players and card game players
+- **Interests:** deck-building, turn-based games
+- **Platforms:** PC, Web
 
 ---
 
@@ -62,22 +63,22 @@
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** Unity
+- **Art Tools:** Blender, mixkit
+- **Audio Tools:** Audacity, Adobe Audition 
+- **Version Control:** GitHub
+- **Publishing Platforms:** Itch.io, GitHub
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** Simple and Minimal 
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - “Build Your Deck, Take ’Em Down.”
+  - "Test Your Strategic Thinking."
+  - "Bear Down and Go All In."
 
 -- **Sketches/Logo**:
 
