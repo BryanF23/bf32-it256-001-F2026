@@ -21,7 +21,7 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> To make fast-paced, easy-to-learn deck-building games where every turn matters and players have the flexibility to win their own way.
 
 ---
 
@@ -48,15 +48,15 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- Roguelike deck-building, Strategy card games
+- Medieval, fantasy
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> A fast paced deck building game where players can build their decks in different ways and use strategy to defeat their opponents.  
 
 ---
 
