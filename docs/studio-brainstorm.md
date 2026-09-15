@@ -4,7 +4,7 @@
 - **Primary Ideas:**
   - Deckrush Studios
   - Deck Blitz Games
-  - Bear Down Studios
+  - Bear Down Game
     
 - **Alternative Ideas:**
   - Incrediable card games
@@ -81,7 +81,7 @@ it is fast-paced and gives players a lot of freedom in how they build their deck
 
 
 -- **Sketches/Logo**:
-<img width="2000" height="2000" alt="Deckblitz" src="https://github.com/user-attachments/assets/ff1eed4f-f408-42f3-a063-451571c46b87" />
+<img width="2000" height="2000" alt="Deckblitz (1)" src="https://github.com/user-attachments/assets/2dae6206-e86b-4b3f-aede-cf53b56bf27b" />
 
 ---
 
